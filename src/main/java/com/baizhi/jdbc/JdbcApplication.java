@@ -10,6 +10,7 @@ public class JdbcApplication {
         SpringApplication.run(JdbcApplication.class, args);
         System.out.println("jdbc");
         System.out.println("jdbc123"); 
+        System.out.println("jdbc123456"); 
     }
 
 }
